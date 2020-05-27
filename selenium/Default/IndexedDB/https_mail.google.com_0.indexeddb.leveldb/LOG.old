@@ -1,0 +1,6 @@
+2020/04/27-17:59:20.767 5f19 Reusing MANIFEST /home/justin/Progams/Chegg/selenium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/04/27-17:59:20.767 5f19 Recovering log #22
+2020/04/27-17:59:20.780 5f19 Reusing old log /home/justin/Progams/Chegg/selenium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000022.log 
+2020/04/27-17:59:26.888 6169 Level-0 table #28: started
+2020/04/27-17:59:26.934 6169 Level-0 table #28: 1710595 bytes OK
+2020/04/27-17:59:26.942 6169 Delete type=0 #22

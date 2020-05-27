@@ -1,0 +1,36 @@
+2020/04/14-14:41:29.405 5974 Reusing MANIFEST /home/justin/Progams/Chegg/selenium/Default/Session Storage/MANIFEST-000001
+2020/04/14-14:41:29.406 5974 Recovering log #3363
+2020/04/14-14:41:29.406 5974 Reusing old log /home/justin/Progams/Chegg/selenium/Default/Session Storage/003363.log 
+2020/04/14-18:11:59.273 5dd8 Level-0 table #3367: started
+2020/04/14-18:11:59.276 5dd8 Level-0 table #3367: 23901 bytes OK
+2020/04/14-18:11:59.278 5dd8 Delete type=0 #3363
+2020/04/14-18:11:59.278 5dd8 Compacting 4@0 + 1@1 files
+2020/04/14-18:11:59.281 5dd8 Generated table #3368@0: 26 keys, 6550 bytes
+2020/04/14-18:11:59.281 5dd8 Compacted 4@0 + 1@1 files => 6550 bytes
+2020/04/14-18:11:59.282 5dd8 compacted to: files[ 0 1 0 0 0 0 0 ]
+2020/04/14-18:11:59.282 5dd8 Delete type=2 #3358
+2020/04/14-18:11:59.283 5dd8 Delete type=2 #3362
+2020/04/14-18:11:59.283 5dd8 Delete type=2 #3360
+2020/04/14-18:11:59.283 5dd8 Delete type=2 #3364
+2020/04/14-18:11:59.283 5dd8 Delete type=2 #3367
+2020/04/15-17:13:07.294 5dd8 Level-0 table #3370: started
+2020/04/15-17:13:07.298 5dd8 Level-0 table #3370: 21616 bytes OK
+2020/04/15-17:13:07.300 5dd8 Delete type=0 #3366
+2020/04/16-03:36:31.815 5dd8 Level-0 table #3372: started
+2020/04/16-03:36:31.821 5dd8 Level-0 table #3372: 21048 bytes OK
+2020/04/16-03:36:31.823 5dd8 Delete type=0 #3369
+2020/04/16-13:34:11.240 5dd8 Level-0 table #3374: started
+2020/04/16-13:34:11.245 5dd8 Level-0 table #3374: 23222 bytes OK
+2020/04/16-13:34:11.247 5dd8 Delete type=0 #3371
+2020/04/27-17:59:16.991 5dd8 Level-0 table #3376: started
+2020/04/27-17:59:16.995 5dd8 Level-0 table #3376: 19663 bytes OK
+2020/04/27-17:59:16.997 5dd8 Delete type=0 #3373
+2020/04/27-17:59:16.997 5dd8 Compacting 4@0 + 1@1 files
+2020/04/27-17:59:17.000 5dd8 Generated table #3377@0: 83 keys, 10370 bytes
+2020/04/27-17:59:17.000 5dd8 Compacted 4@0 + 1@1 files => 10370 bytes
+2020/04/27-17:59:17.002 5dd8 compacted to: files[ 0 1 0 0 0 0 0 ]
+2020/04/27-17:59:17.002 5dd8 Delete type=2 #3374
+2020/04/27-17:59:17.002 5dd8 Delete type=2 #3376
+2020/04/27-17:59:17.002 5dd8 Delete type=2 #3372
+2020/04/27-17:59:17.002 5dd8 Delete type=2 #3370
+2020/04/27-17:59:17.002 5dd8 Delete type=2 #3368

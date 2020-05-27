@@ -1,0 +1,18 @@
+2020/04/27-17:59:48.918 61f2 Reusing MANIFEST /home/justin/Progams/Chegg/selenium/Default/Local Storage/leveldb/MANIFEST-000001
+2020/04/27-17:59:48.918 61f2 Recovering log #180
+2020/04/27-17:59:48.918 61f2 Reusing old log /home/justin/Progams/Chegg/selenium/Default/Local Storage/leveldb/000180.log 
+2020/04/27-18:02:03.276 63bd Level-0 table #184: started
+2020/04/27-18:02:03.280 63bd Level-0 table #184: 36414 bytes OK
+2020/04/27-18:02:03.290 63bd Delete type=0 #180
+2020/04/27-18:06:05.329 63bd Level-0 table #186: started
+2020/04/27-18:06:05.335 63bd Level-0 table #186: 45409 bytes OK
+2020/04/27-18:06:05.337 63bd Delete type=0 #183
+2020/04/27-18:06:05.337 63bd Compacting 4@0 + 1@1 files
+2020/04/27-18:06:05.341 63bd Generated table #187@0: 1067 keys, 31137 bytes
+2020/04/27-18:06:05.341 63bd Compacted 4@0 + 1@1 files => 31137 bytes
+2020/04/27-18:06:05.344 63bd compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/04/27-18:06:05.344 63bd Delete type=2 #186
+2020/04/27-18:06:05.344 63bd Delete type=2 #179
+2020/04/27-18:06:05.344 63bd Delete type=2 #181
+2020/04/27-18:06:05.344 63bd Delete type=2 #184
+2020/04/27-18:06:05.344 63bd Delete type=2 #177

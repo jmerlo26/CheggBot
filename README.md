@@ -1,0 +1,2 @@
+## Allows many people to share one Chegg account.
+This bot watches a gmail account and when it receives an email with a Chegg link in it, it will open the page using selenium, print it as a PDF and send an email back with the PDF of the unlocked page. credentials.json must be added for the gmail account to watch. When the bot starts up, log into your Chegg account in the chrome window, this only has to be done once as the session cookies will be saved and chrome will auto log in after initial log in.

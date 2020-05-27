@@ -1,0 +1,9 @@
+2020/04/28-15:08:08.913 738e Reusing MANIFEST /home/justin/Progams/Chegg/selenium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/04/28-15:08:08.914 738e Recovering log #27
+2020/04/28-15:08:08.914 738e Reusing old log /home/justin/Progams/Chegg/selenium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000027.log 
+2020/04/28-15:08:12.949 77ae Compacting 1@1 + 1@2 files
+2020/04/28-15:08:12.974 77ae Generated table #30@1: 165 keys, 148654 bytes
+2020/04/28-15:08:12.974 77ae Compacted 1@1 + 1@2 files => 148654 bytes
+2020/04/28-15:08:12.976 77ae compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/04/28-15:08:12.976 77ae Delete type=2 #25
+2020/04/28-15:08:12.976 77ae Delete type=2 #28
